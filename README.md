@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrmarcslist
+- 👋 Hi, I’m Marc
 - 👀 I’m interested in ... AR , 3D , 
 - 🌱 I’m currently learning ... nodejs, phython , babylonjs
 - 💞️ I’m looking to collaborate on ... AR projects
